@@ -17,7 +17,7 @@ const resolvers = {
   Query: {
     me: () => {
       return {
-        username: 'Patrik,
+        username: 'Patrik',
       };
     },
   },
